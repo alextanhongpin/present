@@ -9,3 +9,4 @@ My own slides and presentation materials
 - [ ] saga orchestration
 - [ ] breaking large usecases
 - [ ] repository pattern and unit of work
+- [ ] runtime checks with reflection and build tags 
